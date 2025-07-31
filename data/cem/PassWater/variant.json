@@ -1,0 +1,26 @@
+{
+  "algorithm": "CEM",
+  "env_kwargs": {
+    "action_mode": "direct",
+    "action_repeat": 8,
+    "deterministic": false,
+    "headless": true,
+    "horizon": 75,
+    "num_variations": 1000,
+    "observation_mode": "cam_rgb",
+    "render": true,
+    "render_mode": "fluid"
+  },
+  "env_name": "PassWater",
+  "exp_name": "cem",
+  "log_dir": "./data/cem/PassWater",
+  "max_iters": 10,
+  "num_elites": 30,
+  "num_envs": 2,
+  "plan_horizon": 7,
+  "population_size": 300,
+  "seed": 100,
+  "test_episodes": 10,
+  "timestep_per_decision": 21000,
+  "use_mpc": true
+}

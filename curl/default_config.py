@@ -45,8 +45,8 @@ DEFAULT_CONFIG = {
     'seed': 1,
     'save_tb': False,
     'save_buffer': False,
-    'save_video': False,
-    'save_model': False,
+    'save_video': True,
+    'save_model': True,
     'detach_encoder': False,
-    'log_interval': 1
+    'log_interval': 500
 }

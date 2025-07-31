@@ -1,32 +1,39 @@
 name: softgym
 channels:
+  - conda-forge          
   - defaults
+
 dependencies:
-  - python=3.6
+  - python=3.8
   - numpy=1.17.2
-  - gym=0.14.0
-  - pyquaternion=0.9.5 
-  - opencv-python=5.1.1
+  - pyquaternion=0.9.5         
+  - opencv                     
   - imageio=2.6.1
-  - imageio-ffmpeg
+  - imageio-ffmpeg              
   - glob2=0.7
   - cmake=3.14.0
   - pybind11=2.4.3
-  - moviepy
   - click
   - matplotlib
   - joblib
-  - Pillow=6.1
-  - plotly=2.0
-  - gtimer
-  - sk-video
-# SoftAgent specific
+  - pillow=8.4                  
+  - plotly=4.14                 
+  - scikit-image                
+  - pip                        
+
   - pip:
-      - torch=1.7.1
-      - torchvision
+
+      - gym==0.14.0
+
+      - gtimer
+      - sk-video==1.1.10
+      - moviepy
+      - opencv-python==5.1.1       
+      - Shapely==1.6.4.post2       
+      - torch==1.7.1+cpu         
+      - torchvision==0.8.2+cpu
       - dm-env
       - dm-tree
       - termcolor
-      - git+git://github.com/1nadequacy/dmc2gym.git
-      - scikit-image
+      - git+https://github.com/1nadequacy/dmc2gym.git
       - kornia

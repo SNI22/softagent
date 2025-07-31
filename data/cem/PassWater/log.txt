@@ -1,0 +1,15 @@
+Logging to ./data/cem/PassWater
+episode 0
+episode 0, step 0
+  step runtime: 861.138 s
+episode 0, step 1
+  step runtime: 306.513 s
+episode 0, step 2
+  step runtime: 293.340 s
+episode 0, step 3
+  step runtime: 301.064 s
+episode 0, step 4
+  step runtime: 307.346 s
+episode 0, step 5
+  step runtime: 305.063 s
+episode 0, step 6
