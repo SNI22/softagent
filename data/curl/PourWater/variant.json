@@ -40,7 +40,7 @@
   "env_kwargs_camera_name": "default_camera",
   "env_kwargs_observation_mode": "key_point",
   "env_kwargs_render": true,
-  "env_name": "PourWater",
+  "env_name": "PourWater ",
   "eval_freq": 10000,
   "exp_name": "CURL_SAC",
   "hidden_dim": 1024,

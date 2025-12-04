@@ -59,6 +59,7 @@ cem_plan_horizon = {
     'ClothDrop': 15,
     'RopeFlatten': 15,
     'RopeConfiguration': 15,
+    'ReachTraj': 12, 
 }
 
 # ------------------------------------------------------------------ #

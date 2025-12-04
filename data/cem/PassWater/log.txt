@@ -13,3 +13,1649 @@ episode 0, step 4
 episode 0, step 5
   step runtime: 305.063 s
 episode 0, step 6
+  step runtime: 296.344 s
+episode 0, step 7
+  step runtime: 293.593 s
+episode 0, step 8
+  step runtime: 292.555 s
+episode 0, step 9
+  step runtime: 292.605 s
+episode 0, step 10
+  step runtime: 294.318 s
+episode 0, step 11
+  step runtime: 289.276 s
+episode 0, step 12
+  step runtime: 287.886 s
+episode 0, step 13
+  step runtime: 287.671 s
+episode 0, step 14
+  step runtime: 283.393 s
+episode 0, step 15
+  step runtime: 284.653 s
+episode 0, step 16
+  step runtime: 284.118 s
+episode 0, step 17
+  step runtime: 284.750 s
+episode 0, step 18
+  step runtime: 271.250 s
+episode 0, step 19
+  step runtime: 268.247 s
+episode 0, step 20
+  step runtime: 267.730 s
+episode 0, step 21
+  step runtime: 267.696 s
+episode 0, step 22
+  step runtime: 266.164 s
+episode 0, step 23
+  step runtime: 271.747 s
+episode 0, step 24
+  step runtime: 269.894 s
+episode 0, step 25
+  step runtime: 267.525 s
+episode 0, step 26
+  step runtime: 270.787 s
+episode 0, step 27
+  step runtime: 270.139 s
+episode 0, step 28
+  step runtime: 266.228 s
+episode 0, step 29
+  step runtime: 265.729 s
+episode 0, step 30
+  step runtime: 267.074 s
+episode 0, step 31
+  step runtime: 268.440 s
+episode 0, step 32
+  step runtime: 271.086 s
+episode 0, step 33
+  step runtime: 267.022 s
+episode 0, step 34
+  step runtime: 266.663 s
+episode 0, step 35
+  step runtime: 269.013 s
+episode 0, step 36
+  step runtime: 265.301 s
+episode 0, step 37
+  step runtime: 267.869 s
+episode 0, step 38
+  step runtime: 265.339 s
+episode 0, step 39
+  step runtime: 269.227 s
+episode 0, step 40
+  step runtime: 265.863 s
+episode 0, step 41
+  step runtime: 272.152 s
+episode 0, step 42
+  step runtime: 265.960 s
+episode 0, step 43
+  step runtime: 269.746 s
+episode 0, step 44
+  step runtime: 269.665 s
+episode 0, step 45
+  step runtime: 274.627 s
+episode 0, step 46
+  step runtime: 272.710 s
+episode 0, step 47
+  step runtime: 271.150 s
+episode 0, step 48
+  step runtime: 268.935 s
+episode 0, step 49
+  step runtime: 267.510 s
+episode 0, step 50
+  step runtime: 275.728 s
+episode 0, step 51
+  step runtime: 271.672 s
+episode 0, step 52
+  step runtime: 269.654 s
+episode 0, step 53
+  step runtime: 270.900 s
+episode 0, step 54
+  step runtime: 270.231 s
+episode 0, step 55
+  step runtime: 264.716 s
+episode 0, step 56
+  step runtime: 268.994 s
+episode 0, step 57
+  step runtime: 267.793 s
+episode 0, step 58
+  step runtime: 268.739 s
+episode 0, step 59
+  step runtime: 274.441 s
+episode 0, step 60
+  step runtime: 268.502 s
+episode 0, step 61
+  step runtime: 270.623 s
+episode 0, step 62
+  step runtime: 270.099 s
+episode 0, step 63
+  step runtime: 270.323 s
+episode 0, step 64
+  step runtime: 273.129 s
+episode 0, step 65
+  step runtime: 267.760 s
+episode 0, step 66
+  step runtime: 265.215 s
+episode 0, step 67
+  step runtime: 270.811 s
+episode 0, step 68
+  step runtime: 266.406 s
+episode 0, step 69
+  step runtime: 267.099 s
+episode 0, step 70
+  step runtime: 266.977 s
+episode 0, step 71
+  step runtime: 271.429 s
+episode 0, step 72
+  step runtime: 272.172 s
+episode 0, step 73
+  step runtime: 273.328 s
+episode 0, step 74
+  step runtime: 269.794 s
+episode 0 finished in 21193.37 s
+-----------2025-08-01 01:01:44.217497 UTC------------
+| info_average_distance_to_target   | 0.107635945   |
+| info_average_normalized_perfor... | -1.1124984    |
+| info_average_out_water            | 0.24273624    |
+| info_average_performance          | -2.5349982    |
+| info_final_distance_to_target     | 0.00042565138 |
+| info_final_normalized_performance | -1.2584802    |
+| info_final_out_water              | 0.27097505    |
+| info_final_performance            | -2.7101762    |
+| info_sum_distance_to_target       | 8.072696      |
+| info_sum_normalized_performance   | -83.43738     |
+| info_sum_out_water                | 18.205217     |
+| info_sum_performance              | -190.12486    |
+-----------------------------------------------------
+episode 1
+episode 1, step 0
+  step runtime: 339.077 s
+episode 1, step 1
+  step runtime: 337.689 s
+episode 1, step 2
+  step runtime: 336.881 s
+episode 1, step 3
+  step runtime: 337.579 s
+episode 1, step 4
+  step runtime: 337.928 s
+episode 1, step 5
+  step runtime: 337.459 s
+episode 1, step 6
+  step runtime: 342.473 s
+episode 1, step 7
+  step runtime: 340.677 s
+episode 1, step 8
+  step runtime: 337.123 s
+episode 1, step 9
+  step runtime: 338.629 s
+episode 1, step 10
+  step runtime: 337.591 s
+episode 1, step 11
+  step runtime: 335.770 s
+episode 1, step 12
+  step runtime: 336.273 s
+episode 1, step 13
+  step runtime: 338.345 s
+episode 1, step 14
+  step runtime: 334.644 s
+episode 1, step 15
+  step runtime: 330.482 s
+episode 1, step 16
+  step runtime: 330.105 s
+episode 1, step 17
+  step runtime: 336.057 s
+episode 1, step 18
+  step runtime: 333.827 s
+episode 1, step 19
+  step runtime: 328.835 s
+episode 1, step 20
+  step runtime: 332.980 s
+episode 1, step 21
+  step runtime: 327.216 s
+episode 1, step 22
+  step runtime: 330.573 s
+episode 1, step 23
+  step runtime: 332.140 s
+episode 1, step 24
+  step runtime: 333.688 s
+episode 1, step 25
+  step runtime: 332.076 s
+episode 1, step 26
+  step runtime: 330.632 s
+episode 1, step 27
+  step runtime: 329.523 s
+episode 1, step 28
+  step runtime: 334.671 s
+episode 1, step 29
+  step runtime: 335.624 s
+episode 1, step 30
+  step runtime: 329.719 s
+episode 1, step 31
+  step runtime: 330.538 s
+episode 1, step 32
+  step runtime: 330.723 s
+episode 1, step 33
+  step runtime: 327.665 s
+episode 1, step 34
+  step runtime: 329.762 s
+episode 1, step 35
+  step runtime: 332.279 s
+episode 1, step 36
+  step runtime: 332.932 s
+episode 1, step 37
+  step runtime: 332.125 s
+episode 1, step 38
+  step runtime: 331.500 s
+episode 1, step 39
+  step runtime: 329.751 s
+episode 1, step 40
+  step runtime: 330.628 s
+episode 1, step 41
+  step runtime: 331.784 s
+episode 1, step 42
+  step runtime: 333.701 s
+episode 1, step 43
+  step runtime: 323.426 s
+episode 1, step 44
+  step runtime: 323.111 s
+episode 1, step 45
+  step runtime: 323.059 s
+episode 1, step 46
+  step runtime: 324.864 s
+episode 1, step 47
+  step runtime: 323.685 s
+episode 1, step 48
+  step runtime: 324.451 s
+episode 1, step 49
+  step runtime: 324.046 s
+episode 1, step 50
+  step runtime: 323.911 s
+episode 1, step 51
+  step runtime: 322.897 s
+episode 1, step 52
+  step runtime: 322.847 s
+episode 1, step 53
+  step runtime: 323.468 s
+episode 1, step 54
+  step runtime: 323.762 s
+episode 1, step 55
+  step runtime: 323.923 s
+episode 1, step 56
+  step runtime: 324.280 s
+episode 1, step 57
+  step runtime: 324.324 s
+episode 1, step 58
+  step runtime: 325.337 s
+episode 1, step 59
+  step runtime: 325.002 s
+episode 1, step 60
+  step runtime: 325.336 s
+episode 1, step 61
+  step runtime: 325.135 s
+episode 1, step 62
+  step runtime: 324.326 s
+episode 1, step 63
+  step runtime: 324.190 s
+episode 1, step 64
+  step runtime: 324.148 s
+episode 1, step 65
+  step runtime: 324.317 s
+episode 1, step 66
+  step runtime: 324.369 s
+episode 1, step 67
+  step runtime: 324.061 s
+episode 1, step 68
+  step runtime: 323.845 s
+episode 1, step 69
+  step runtime: 323.604 s
+episode 1, step 70
+  step runtime: 323.651 s
+episode 1, step 71
+  step runtime: 323.747 s
+episode 1, step 72
+  step runtime: 323.830 s
+episode 1, step 73
+  step runtime: 324.199 s
+episode 1, step 74
+  step runtime: 324.419 s
+episode 1 finished in 24721.83 s
+-----------2025-08-01 07:53:46.044899 UTC------------
+| info_average_distance_to_target   | 0.1368846     |
+| info_average_normalized_perfor... | -0.155292     |
+| info_average_out_water            | 0.12494657    |
+| info_average_performance          | -1.3863504    |
+| info_final_distance_to_target     | 5.3663294e-05 |
+| info_final_normalized_performance | -0.18304864   |
+| info_final_out_water              | 0.14196047    |
+| info_final_performance            | -1.4196584    |
+| info_sum_distance_to_target       | 10.266345     |
+| info_sum_normalized_performance   | -11.6469      |
+| info_sum_out_water                | 9.370993      |
+| info_sum_performance              | -103.97628    |
+-----------------------------------------------------
+episode 2
+episode 2, step 0
+  step runtime: 312.412 s
+episode 2, step 1
+  step runtime: 312.741 s
+episode 2, step 2
+  step runtime: 308.173 s
+episode 2, step 3
+  step runtime: 309.512 s
+episode 2, step 4
+  step runtime: 308.989 s
+episode 2, step 5
+  step runtime: 310.187 s
+episode 2, step 6
+  step runtime: 309.961 s
+episode 2, step 7
+  step runtime: 309.091 s
+episode 2, step 8
+  step runtime: 310.442 s
+episode 2, step 9
+  step runtime: 309.248 s
+episode 2, step 10
+  step runtime: 309.043 s
+episode 2, step 11
+  step runtime: 307.939 s
+episode 2, step 12
+  step runtime: 305.372 s
+episode 2, step 13
+  step runtime: 305.597 s
+episode 2, step 14
+  step runtime: 304.081 s
+episode 2, step 15
+  step runtime: 303.126 s
+episode 2, step 16
+  step runtime: 301.985 s
+episode 2, step 17
+  step runtime: 303.296 s
+episode 2, step 18
+  step runtime: 303.199 s
+episode 2, step 19
+  step runtime: 303.207 s
+episode 2, step 20
+  step runtime: 302.996 s
+episode 2, step 21
+  step runtime: 303.515 s
+episode 2, step 22
+  step runtime: 303.671 s
+episode 2, step 23
+  step runtime: 303.649 s
+episode 2, step 24
+  step runtime: 303.342 s
+episode 2, step 25
+  step runtime: 303.462 s
+episode 2, step 26
+  step runtime: 304.262 s
+episode 2, step 27
+  step runtime: 303.758 s
+episode 2, step 28
+  step runtime: 305.167 s
+episode 2, step 29
+  step runtime: 304.195 s
+episode 2, step 30
+  step runtime: 304.421 s
+episode 2, step 31
+  step runtime: 304.139 s
+episode 2, step 32
+  step runtime: 303.885 s
+episode 2, step 33
+  step runtime: 304.080 s
+episode 2, step 34
+  step runtime: 303.583 s
+episode 2, step 35
+  step runtime: 304.243 s
+episode 2, step 36
+  step runtime: 303.351 s
+episode 2, step 37
+  step runtime: 304.099 s
+episode 2, step 38
+  step runtime: 303.674 s
+episode 2, step 39
+  step runtime: 303.249 s
+episode 2, step 40
+  step runtime: 303.226 s
+episode 2, step 41
+  step runtime: 303.797 s
+episode 2, step 42
+  step runtime: 303.333 s
+episode 2, step 43
+  step runtime: 303.324 s
+episode 2, step 44
+  step runtime: 303.547 s
+episode 2, step 45
+  step runtime: 302.816 s
+episode 2, step 46
+  step runtime: 302.936 s
+episode 2, step 47
+  step runtime: 302.963 s
+episode 2, step 48
+  step runtime: 302.968 s
+episode 2, step 49
+  step runtime: 302.752 s
+episode 2, step 50
+  step runtime: 302.922 s
+episode 2, step 51
+  step runtime: 303.419 s
+episode 2, step 52
+  step runtime: 302.731 s
+episode 2, step 53
+  step runtime: 303.364 s
+episode 2, step 54
+  step runtime: 303.389 s
+episode 2, step 55
+  step runtime: 303.450 s
+episode 2, step 56
+  step runtime: 302.727 s
+episode 2, step 57
+  step runtime: 303.457 s
+episode 2, step 58
+  step runtime: 302.720 s
+episode 2, step 59
+  step runtime: 303.412 s
+episode 2, step 60
+  step runtime: 303.418 s
+episode 2, step 61
+  step runtime: 303.216 s
+episode 2, step 62
+  step runtime: 303.707 s
+episode 2, step 63
+  step runtime: 302.934 s
+episode 2, step 64
+  step runtime: 303.498 s
+episode 2, step 65
+  step runtime: 302.910 s
+episode 2, step 66
+  step runtime: 303.328 s
+episode 2, step 67
+  step runtime: 303.413 s
+episode 2, step 68
+  step runtime: 303.552 s
+episode 2, step 69
+  step runtime: 303.621 s
+episode 2, step 70
+  step runtime: 303.623 s
+episode 2, step 71
+  step runtime: 303.556 s
+episode 2, step 72
+  step runtime: 303.599 s
+episode 2, step 73
+  step runtime: 302.907 s
+episode 2, step 74
+  step runtime: 303.691 s
+episode 2 finished in 22840.72 s
+-----------2025-08-01 14:14:26.762539 UTC------------
+| info_average_distance_to_target   | 0.11001629    |
+| info_average_normalized_perfor... | -0.08627532   |
+| info_average_out_water            | 0.119351424   |
+| info_average_performance          | -1.3035303    |
+| info_final_distance_to_target     | 0.00032285872 |
+| info_final_normalized_performance | -0.10838973   |
+| info_final_out_water              | 0.13297448    |
+| info_final_performance            | -1.3300676    |
+| info_sum_distance_to_target       | 8.251222      |
+| info_sum_normalized_performance   | -6.470649     |
+| info_sum_out_water                | 8.951357      |
+| info_sum_performance              | -97.76478     |
+-----------------------------------------------------
+episode 3
+episode 3, step 0
+  step runtime: 277.364 s
+episode 3, step 1
+  step runtime: 276.730 s
+episode 3, step 2
+  step runtime: 270.927 s
+episode 3, step 3
+  step runtime: 270.931 s
+episode 3, step 4
+  step runtime: 269.705 s
+episode 3, step 5
+  step runtime: 270.377 s
+episode 3, step 6
+  step runtime: 270.178 s
+episode 3, step 7
+  step runtime: 269.846 s
+episode 3, step 8
+  step runtime: 270.344 s
+episode 3, step 9
+  step runtime: 269.375 s
+episode 3, step 10
+  step runtime: 268.095 s
+episode 3, step 11
+  step runtime: 265.409 s
+episode 3, step 12
+  step runtime: 263.736 s
+episode 3, step 13
+  step runtime: 261.139 s
+episode 3, step 14
+  step runtime: 260.707 s
+episode 3, step 15
+  step runtime: 260.166 s
+episode 3, step 16
+  step runtime: 260.266 s
+episode 3, step 17
+  step runtime: 260.128 s
+episode 3, step 18
+  step runtime: 259.799 s
+episode 3, step 19
+  step runtime: 259.993 s
+episode 3, step 20
+  step runtime: 260.216 s
+episode 3, step 21
+  step runtime: 259.995 s
+episode 3, step 22
+  step runtime: 260.063 s
+episode 3, step 23
+  step runtime: 260.600 s
+episode 3, step 24
+  step runtime: 259.953 s
+episode 3, step 25
+  step runtime: 260.281 s
+episode 3, step 26
+  step runtime: 260.161 s
+episode 3, step 27
+  step runtime: 259.514 s
+episode 3, step 28
+  step runtime: 258.734 s
+episode 3, step 29
+  step runtime: 258.408 s
+episode 3, step 30
+  step runtime: 258.829 s
+episode 3, step 31
+  step runtime: 258.676 s
+episode 3, step 32
+  step runtime: 259.459 s
+episode 3, step 33
+  step runtime: 260.670 s
+episode 3, step 34
+  step runtime: 260.771 s
+episode 3, step 35
+  step runtime: 261.013 s
+episode 3, step 36
+  step runtime: 261.036 s
+episode 3, step 37
+  step runtime: 261.533 s
+episode 3, step 38
+  step runtime: 261.733 s
+episode 3, step 39
+  step runtime: 261.585 s
+episode 3, step 40
+  step runtime: 260.796 s
+episode 3, step 41
+  step runtime: 266.145 s
+episode 3, step 42
+  step runtime: 276.897 s
+episode 3, step 43
+  step runtime: 277.387 s
+episode 3, step 44
+  step runtime: 277.930 s
+episode 3, step 45
+  step runtime: 278.165 s
+episode 3, step 46
+  step runtime: 278.583 s
+episode 3, step 47
+  step runtime: 277.862 s
+episode 3, step 48
+  step runtime: 263.942 s
+episode 3, step 49
+  step runtime: 260.159 s
+episode 3, step 50
+  step runtime: 259.827 s
+episode 3, step 51
+  step runtime: 259.428 s
+episode 3, step 52
+  step runtime: 260.166 s
+episode 3, step 53
+  step runtime: 260.086 s
+episode 3, step 54
+  step runtime: 282.073 s
+episode 3, step 55
+  step runtime: 284.159 s
+episode 3, step 56
+  step runtime: 276.025 s
+episode 3, step 57
+  step runtime: 261.685 s
+episode 3, step 58
+  step runtime: 259.729 s
+episode 3, step 59
+  step runtime: 260.642 s
+episode 3, step 60
+  step runtime: 260.464 s
+episode 3, step 61
+  step runtime: 279.777 s
+episode 3, step 62
+  step runtime: 277.145 s
+episode 3, step 63
+  step runtime: 263.888 s
+episode 3, step 64
+  step runtime: 260.865 s
+episode 3, step 65
+  step runtime: 260.038 s
+episode 3, step 66
+  step runtime: 276.970 s
+episode 3, step 67
+  step runtime: 280.889 s
+episode 3, step 68
+  step runtime: 280.469 s
+episode 3, step 69
+  step runtime: 279.422 s
+episode 3, step 70
+  step runtime: 280.089 s
+episode 3, step 71
+  step runtime: 280.437 s
+episode 3, step 72
+  step runtime: 280.088 s
+episode 3, step 73
+  step runtime: 279.745 s
+episode 3, step 74
+  step runtime: 279.828 s
+episode 3 finished in 20042.31 s
+-----------2025-08-01 19:48:29.068217 UTC-----------
+| info_average_distance_to_target   | 0.11074766   |
+| info_average_normalized_perfor... | -0.48172975  |
+| info_average_out_water            | 0.16673279   |
+| info_average_performance          | -1.7780756   |
+| info_final_distance_to_target     | 0.0002717975 |
+| info_final_normalized_performance | -0.5420585   |
+| info_final_out_water              | 0.18501984   |
+| info_final_performance            | -1.8504702   |
+| info_sum_distance_to_target       | 8.306074     |
+| info_sum_normalized_performance   | -36.12973    |
+| info_sum_out_water                | 12.504959    |
+| info_sum_performance              | -133.35567   |
+----------------------------------------------------
+episode 4
+episode 4, step 0
+  step runtime: 350.471 s
+episode 4, step 1
+  step runtime: 350.700 s
+episode 4, step 2
+  step runtime: 349.925 s
+episode 4, step 3
+  step runtime: 355.927 s
+episode 4, step 4
+  step runtime: 353.633 s
+episode 4, step 5
+  step runtime: 353.801 s
+episode 4, step 6
+  step runtime: 352.195 s
+episode 4, step 7
+  step runtime: 349.919 s
+episode 4, step 8
+  step runtime: 349.955 s
+episode 4, step 9
+  step runtime: 350.953 s
+episode 4, step 10
+  step runtime: 346.817 s
+episode 4, step 11
+  step runtime: 345.876 s
+episode 4, step 12
+  step runtime: 345.296 s
+episode 4, step 13
+  step runtime: 343.429 s
+episode 4, step 14
+  step runtime: 344.082 s
+episode 4, step 15
+  step runtime: 342.655 s
+episode 4, step 16
+  step runtime: 341.371 s
+episode 4, step 17
+  step runtime: 341.578 s
+episode 4, step 18
+  step runtime: 342.056 s
+episode 4, step 19
+  step runtime: 342.721 s
+episode 4, step 20
+  step runtime: 342.411 s
+episode 4, step 21
+  step runtime: 342.655 s
+episode 4, step 22
+  step runtime: 343.323 s
+episode 4, step 23
+  step runtime: 343.758 s
+episode 4, step 24
+  step runtime: 344.037 s
+episode 4, step 25
+  step runtime: 344.077 s
+episode 4, step 26
+  step runtime: 344.783 s
+episode 4, step 27
+  step runtime: 344.065 s
+episode 4, step 28
+  step runtime: 344.202 s
+episode 4, step 29
+  step runtime: 344.012 s
+episode 4, step 30
+  step runtime: 344.360 s
+episode 4, step 31
+  step runtime: 344.360 s
+episode 4, step 32
+  step runtime: 344.310 s
+episode 4, step 33
+  step runtime: 343.983 s
+episode 4, step 34
+  step runtime: 344.637 s
+episode 4, step 35
+  step runtime: 343.878 s
+episode 4, step 36
+  step runtime: 343.905 s
+episode 4, step 37
+  step runtime: 343.727 s
+episode 4, step 38
+  step runtime: 343.931 s
+episode 4, step 39
+  step runtime: 342.931 s
+episode 4, step 40
+  step runtime: 343.287 s
+episode 4, step 41
+  step runtime: 342.560 s
+episode 4, step 42
+  step runtime: 343.924 s
+episode 4, step 43
+  step runtime: 343.489 s
+episode 4, step 44
+  step runtime: 346.795 s
+episode 4, step 45
+  step runtime: 347.253 s
+episode 4, step 46
+  step runtime: 347.385 s
+episode 4, step 47
+  step runtime: 347.535 s
+episode 4, step 48
+  step runtime: 347.476 s
+episode 4, step 49
+  step runtime: 348.315 s
+episode 4, step 50
+  step runtime: 348.951 s
+episode 4, step 51
+  step runtime: 348.662 s
+episode 4, step 52
+  step runtime: 348.848 s
+episode 4, step 53
+  step runtime: 348.365 s
+episode 4, step 54
+  step runtime: 348.599 s
+episode 4, step 55
+  step runtime: 348.020 s
+episode 4, step 56
+  step runtime: 348.083 s
+episode 4, step 57
+  step runtime: 347.999 s
+episode 4, step 58
+  step runtime: 347.996 s
+episode 4, step 59
+  step runtime: 347.782 s
+episode 4, step 60
+  step runtime: 347.393 s
+episode 4, step 61
+  step runtime: 348.294 s
+episode 4, step 62
+  step runtime: 348.234 s
+episode 4, step 63
+  step runtime: 347.772 s
+episode 4, step 64
+  step runtime: 347.536 s
+episode 4, step 65
+  step runtime: 347.679 s
+episode 4, step 66
+  step runtime: 343.876 s
+episode 4, step 67
+  step runtime: 343.467 s
+episode 4, step 68
+  step runtime: 343.426 s
+episode 4, step 69
+  step runtime: 343.662 s
+episode 4, step 70
+  step runtime: 344.003 s
+episode 4, step 71
+  step runtime: 343.273 s
+episode 4, step 72
+  step runtime: 343.666 s
+episode 4, step 73
+  step runtime: 344.385 s
+episode 4, step 74
+  step runtime: 343.613 s
+episode 4 finished in 25954.83 s
+-----------2025-08-02 03:01:03.895950 UTC-----------
+| info_average_distance_to_target   | 0.10981448   |
+| info_average_normalized_perfor... | 0.083489746  |
+| info_average_out_water            | 0.09899978   |
+| info_average_performance          | -1.0998123   |
+| info_final_distance_to_target     | 0.0011838987 |
+| info_final_normalized_performance | 0.079662114  |
+| info_final_out_water              | 0.110322155  |
+| info_final_performance            | -1.1044055   |
+| info_sum_distance_to_target       | 8.236086     |
+| info_sum_normalized_performance   | 6.261731     |
+| info_sum_out_water                | 7.4249835    |
+| info_sum_performance              | -82.48592    |
+----------------------------------------------------
+episode 5
+episode 5, step 0
+  step runtime: 335.681 s
+episode 5, step 1
+  step runtime: 334.206 s
+episode 5, step 2
+  step runtime: 332.570 s
+episode 5, step 3
+  step runtime: 333.712 s
+episode 5, step 4
+  step runtime: 332.997 s
+episode 5, step 5
+  step runtime: 333.332 s
+episode 5, step 6
+  step runtime: 334.414 s
+episode 5, step 7
+  step runtime: 331.915 s
+episode 5, step 8
+  step runtime: 332.682 s
+episode 5, step 9
+  step runtime: 332.269 s
+episode 5, step 10
+  step runtime: 330.914 s
+episode 5, step 11
+  step runtime: 331.130 s
+episode 5, step 12
+  step runtime: 328.912 s
+episode 5, step 13
+  step runtime: 328.801 s
+episode 5, step 14
+  step runtime: 327.473 s
+episode 5, step 15
+  step runtime: 326.414 s
+episode 5, step 16
+  step runtime: 326.731 s
+episode 5, step 17
+  step runtime: 324.802 s
+episode 5, step 18
+  step runtime: 325.118 s
+episode 5, step 19
+  step runtime: 325.145 s
+episode 5, step 20
+  step runtime: 325.183 s
+episode 5, step 21
+  step runtime: 325.630 s
+episode 5, step 22
+  step runtime: 325.696 s
+episode 5, step 23
+  step runtime: 326.393 s
+episode 5, step 24
+  step runtime: 324.946 s
+episode 5, step 25
+  step runtime: 324.883 s
+episode 5, step 26
+  step runtime: 325.674 s
+episode 5, step 27
+  step runtime: 325.628 s
+episode 5, step 28
+  step runtime: 325.102 s
+episode 5, step 29
+  step runtime: 325.453 s
+episode 5, step 30
+  step runtime: 325.794 s
+episode 5, step 31
+  step runtime: 326.004 s
+episode 5, step 32
+  step runtime: 327.127 s
+episode 5, step 33
+  step runtime: 326.308 s
+episode 5, step 34
+  step runtime: 327.257 s
+episode 5, step 35
+  step runtime: 326.333 s
+episode 5, step 36
+  step runtime: 325.795 s
+episode 5, step 37
+  step runtime: 326.108 s
+episode 5, step 38
+  step runtime: 326.173 s
+episode 5, step 39
+  step runtime: 326.133 s
+episode 5, step 40
+  step runtime: 326.817 s
+episode 5, step 41
+  step runtime: 327.259 s
+episode 5, step 42
+  step runtime: 326.868 s
+episode 5, step 43
+  step runtime: 327.063 s
+episode 5, step 44
+  step runtime: 326.382 s
+episode 5, step 45
+  step runtime: 326.155 s
+episode 5, step 46
+  step runtime: 326.394 s
+episode 5, step 47
+  step runtime: 327.223 s
+episode 5, step 48
+  step runtime: 326.105 s
+episode 5, step 49
+  step runtime: 325.805 s
+episode 5, step 50
+  step runtime: 325.780 s
+episode 5, step 51
+  step runtime: 326.630 s
+episode 5, step 52
+  step runtime: 326.191 s
+episode 5, step 53
+  step runtime: 326.782 s
+episode 5, step 54
+  step runtime: 326.566 s
+episode 5, step 55
+  step runtime: 327.026 s
+episode 5, step 56
+  step runtime: 326.403 s
+episode 5, step 57
+  step runtime: 327.189 s
+episode 5, step 58
+  step runtime: 326.545 s
+episode 5, step 59
+  step runtime: 326.987 s
+episode 5, step 60
+  step runtime: 326.395 s
+episode 5, step 61
+  step runtime: 326.200 s
+episode 5, step 62
+  step runtime: 326.351 s
+episode 5, step 63
+  step runtime: 326.228 s
+episode 5, step 64
+  step runtime: 326.257 s
+episode 5, step 65
+  step runtime: 326.119 s
+episode 5, step 66
+  step runtime: 326.199 s
+episode 5, step 67
+  step runtime: 326.232 s
+episode 5, step 68
+  step runtime: 326.770 s
+episode 5, step 69
+  step runtime: 326.372 s
+episode 5, step 70
+  step runtime: 326.109 s
+episode 5, step 71
+  step runtime: 326.425 s
+episode 5, step 72
+  step runtime: 326.261 s
+episode 5, step 73
+  step runtime: 326.150 s
+episode 5, step 74
+  step runtime: 325.845 s
+episode 5 finished in 24555.32 s
+-----------2025-08-02 09:50:19.211898 UTC------------
+| info_average_distance_to_target   | 0.12792026    |
+| info_average_normalized_perfor... | -0.39141113   |
+| info_average_out_water            | 0.1541773     |
+| info_average_performance          | -1.6696934    |
+| info_final_distance_to_target     | 0.00014366917 |
+| info_final_normalized_performance | -0.44013977   |
+| info_final_out_water              | 0.1728024     |
+| info_final_performance            | -1.7281677    |
+| info_sum_distance_to_target       | 9.594019      |
+| info_sum_normalized_performance   | -29.355835    |
+| info_sum_out_water                | 11.563297     |
+| info_sum_performance              | -125.227      |
+-----------------------------------------------------
+episode 6
+episode 6, step 0
+  step runtime: 298.784 s
+episode 6, step 1
+  step runtime: 292.107 s
+episode 6, step 2
+  step runtime: 291.230 s
+episode 6, step 3
+  step runtime: 291.098 s
+episode 6, step 4
+  step runtime: 290.301 s
+episode 6, step 5
+  step runtime: 289.261 s
+episode 6, step 6
+  step runtime: 288.436 s
+episode 6, step 7
+  step runtime: 287.144 s
+episode 6, step 8
+  step runtime: 287.128 s
+episode 6, step 9
+  step runtime: 284.996 s
+episode 6, step 10
+  step runtime: 283.487 s
+episode 6, step 11
+  step runtime: 281.497 s
+episode 6, step 12
+  step runtime: 281.021 s
+episode 6, step 13
+  step runtime: 280.234 s
+episode 6, step 14
+  step runtime: 278.998 s
+episode 6, step 15
+  step runtime: 279.768 s
+episode 6, step 16
+  step runtime: 280.197 s
+episode 6, step 17
+  step runtime: 278.570 s
+episode 6, step 18
+  step runtime: 278.063 s
+episode 6, step 19
+  step runtime: 277.994 s
+episode 6, step 20
+  step runtime: 277.546 s
+episode 6, step 21
+  step runtime: 277.872 s
+episode 6, step 22
+  step runtime: 278.502 s
+episode 6, step 23
+  step runtime: 279.086 s
+episode 6, step 24
+  step runtime: 279.012 s
+episode 6, step 25
+  step runtime: 279.258 s
+episode 6, step 26
+  step runtime: 279.046 s
+episode 6, step 27
+  step runtime: 278.914 s
+episode 6, step 28
+  step runtime: 280.525 s
+episode 6, step 29
+  step runtime: 280.257 s
+episode 6, step 30
+  step runtime: 280.777 s
+episode 6, step 31
+  step runtime: 280.920 s
+episode 6, step 32
+  step runtime: 281.073 s
+episode 6, step 33
+  step runtime: 280.514 s
+episode 6, step 34
+  step runtime: 280.108 s
+episode 6, step 35
+  step runtime: 280.288 s
+episode 6, step 36
+  step runtime: 280.508 s
+episode 6, step 37
+  step runtime: 280.933 s
+episode 6, step 38
+  step runtime: 281.226 s
+episode 6, step 39
+  step runtime: 281.502 s
+episode 6, step 40
+  step runtime: 282.543 s
+episode 6, step 41
+  step runtime: 282.487 s
+episode 6, step 42
+  step runtime: 282.166 s
+episode 6, step 43
+  step runtime: 281.905 s
+episode 6, step 44
+  step runtime: 281.086 s
+episode 6, step 45
+  step runtime: 280.867 s
+episode 6, step 46
+  step runtime: 281.273 s
+episode 6, step 47
+  step runtime: 281.289 s
+episode 6, step 48
+  step runtime: 281.145 s
+episode 6, step 49
+  step runtime: 281.467 s
+episode 6, step 50
+  step runtime: 280.296 s
+episode 6, step 51
+  step runtime: 280.236 s
+episode 6, step 52
+  step runtime: 280.646 s
+episode 6, step 53
+  step runtime: 279.957 s
+episode 6, step 54
+  step runtime: 280.616 s
+episode 6, step 55
+  step runtime: 280.374 s
+episode 6, step 56
+  step runtime: 280.052 s
+episode 6, step 57
+  step runtime: 279.573 s
+episode 6, step 58
+  step runtime: 279.530 s
+episode 6, step 59
+  step runtime: 279.858 s
+episode 6, step 60
+  step runtime: 279.604 s
+episode 6, step 61
+  step runtime: 280.234 s
+episode 6, step 62
+  step runtime: 279.637 s
+episode 6, step 63
+  step runtime: 279.082 s
+episode 6, step 64
+  step runtime: 278.763 s
+episode 6, step 65
+  step runtime: 278.499 s
+episode 6, step 66
+  step runtime: 279.279 s
+episode 6, step 67
+  step runtime: 278.727 s
+episode 6, step 68
+  step runtime: 279.107 s
+episode 6, step 69
+  step runtime: 278.900 s
+episode 6, step 70
+  step runtime: 278.673 s
+episode 6, step 71
+  step runtime: 278.617 s
+episode 6, step 72
+  step runtime: 278.966 s
+episode 6, step 73
+  step runtime: 278.879 s
+episode 6, step 74
+  step runtime: 279.599 s
+episode 6 finished in 21104.25 s
+-----------2025-08-02 15:42:03.458762 UTC------------
+| info_average_distance_to_target   | 0.1101376     |
+| info_average_normalized_perfor... | -1.2791424    |
+| info_average_out_water            | 0.26248336    |
+| info_average_performance          | -2.7349708    |
+| info_final_distance_to_target     | 0.00031469305 |
+| info_final_normalized_performance | -1.4481789    |
+| info_final_out_water              | 0.29375       |
+| info_final_performance            | -2.9378147    |
+| info_sum_distance_to_target       | 8.26032       |
+| info_sum_normalized_performance   | -95.93568     |
+| info_sum_out_water                | 19.686253     |
+| info_sum_performance              | -205.12282    |
+-----------------------------------------------------
+episode 7
+episode 7, step 0
+  step runtime: 328.156 s
+episode 7, step 1
+  step runtime: 325.345 s
+episode 7, step 2
+  step runtime: 324.978 s
+episode 7, step 3
+  step runtime: 327.241 s
+episode 7, step 4
+  step runtime: 325.776 s
+episode 7, step 5
+  step runtime: 328.220 s
+episode 7, step 6
+  step runtime: 326.475 s
+episode 7, step 7
+  step runtime: 325.784 s
+episode 7, step 8
+  step runtime: 328.057 s
+episode 7, step 9
+  step runtime: 326.711 s
+episode 7, step 10
+  step runtime: 324.950 s
+episode 7, step 11
+  step runtime: 322.150 s
+episode 7, step 12
+  step runtime: 321.973 s
+episode 7, step 13
+  step runtime: 321.143 s
+episode 7, step 14
+  step runtime: 318.623 s
+episode 7, step 15
+  step runtime: 320.014 s
+episode 7, step 16
+  step runtime: 318.748 s
+episode 7, step 17
+  step runtime: 320.047 s
+episode 7, step 18
+  step runtime: 319.260 s
+episode 7, step 19
+  step runtime: 319.390 s
+episode 7, step 20
+  step runtime: 318.974 s
+episode 7, step 21
+  step runtime: 318.886 s
+episode 7, step 22
+  step runtime: 319.329 s
+episode 7, step 23
+  step runtime: 319.220 s
+episode 7, step 24
+  step runtime: 319.756 s
+episode 7, step 25
+  step runtime: 320.197 s
+episode 7, step 26
+  step runtime: 320.170 s
+episode 7, step 27
+  step runtime: 321.047 s
+episode 7, step 28
+  step runtime: 321.134 s
+episode 7, step 29
+  step runtime: 320.558 s
+episode 7, step 30
+  step runtime: 320.312 s
+episode 7, step 31
+  step runtime: 320.809 s
+episode 7, step 32
+  step runtime: 320.867 s
+episode 7, step 33
+  step runtime: 321.020 s
+episode 7, step 34
+  step runtime: 320.318 s
+episode 7, step 35
+  step runtime: 321.159 s
+episode 7, step 36
+  step runtime: 320.596 s
+episode 7, step 37
+  step runtime: 320.451 s
+episode 7, step 38
+  step runtime: 319.943 s
+episode 7, step 39
+  step runtime: 319.742 s
+episode 7, step 40
+  step runtime: 320.420 s
+episode 7, step 41
+  step runtime: 319.851 s
+episode 7, step 42
+  step runtime: 319.950 s
+episode 7, step 43
+  step runtime: 320.026 s
+episode 7, step 44
+  step runtime: 319.924 s
+episode 7, step 45
+  step runtime: 320.199 s
+episode 7, step 46
+  step runtime: 320.221 s
+episode 7, step 47
+  step runtime: 320.340 s
+episode 7, step 48
+  step runtime: 319.954 s
+episode 7, step 49
+  step runtime: 319.800 s
+episode 7, step 50
+  step runtime: 319.717 s
+episode 7, step 51
+  step runtime: 319.866 s
+episode 7, step 52
+  step runtime: 319.879 s
+episode 7, step 53
+  step runtime: 319.982 s
+episode 7, step 54
+  step runtime: 320.286 s
+episode 7, step 55
+  step runtime: 320.198 s
+episode 7, step 56
+  step runtime: 319.744 s
+episode 7, step 57
+  step runtime: 319.619 s
+episode 7, step 58
+  step runtime: 319.507 s
+episode 7, step 59
+  step runtime: 318.918 s
+episode 7, step 60
+  step runtime: 319.765 s
+episode 7, step 61
+  step runtime: 319.152 s
+episode 7, step 62
+  step runtime: 319.551 s
+episode 7, step 63
+  step runtime: 319.473 s
+episode 7, step 64
+  step runtime: 319.392 s
+episode 7, step 65
+  step runtime: 320.290 s
+episode 7, step 66
+  step runtime: 319.446 s
+episode 7, step 67
+  step runtime: 318.735 s
+episode 7, step 68
+  step runtime: 320.076 s
+episode 7, step 69
+  step runtime: 319.072 s
+episode 7, step 70
+  step runtime: 319.499 s
+episode 7, step 71
+  step runtime: 319.934 s
+episode 7, step 72
+  step runtime: 319.729 s
+episode 7, step 73
+  step runtime: 320.300 s
+episode 7, step 74
+  step runtime: 320.279 s
+episode 7 finished in 24073.03 s
+-----------2025-08-02 22:23:16.492791 UTC-----------
+| info_average_distance_to_target   | 0.11136323   |
+| info_average_normalized_perfor... | -0.22254308  |
+| info_average_out_water            | 0.13556884   |
+| info_average_performance          | -1.4670517   |
+| info_final_distance_to_target     | 0.0008117033 |
+| info_final_normalized_performance | -0.26496404  |
+| info_final_out_water              | 0.15171452   |
+| info_final_performance            | -1.5179569   |
+| info_sum_distance_to_target       | 8.352242     |
+| info_sum_normalized_performance   | -16.690731   |
+| info_sum_out_water                | 10.167664    |
+| info_sum_performance              | -110.028885  |
+----------------------------------------------------
+episode 8
+episode 8, step 0
+  step runtime: 330.693 s
+episode 8, step 1
+  step runtime: 328.930 s
+episode 8, step 2
+  step runtime: 326.200 s
+episode 8, step 3
+  step runtime: 326.294 s
+episode 8, step 4
+  step runtime: 326.285 s
+episode 8, step 5
+  step runtime: 326.357 s
+episode 8, step 6
+  step runtime: 328.125 s
+episode 8, step 7
+  step runtime: 326.621 s
+episode 8, step 8
+  step runtime: 327.560 s
+episode 8, step 9
+  step runtime: 326.944 s
+episode 8, step 10
+  step runtime: 326.046 s
+episode 8, step 11
+  step runtime: 326.138 s
+episode 8, step 12
+  step runtime: 322.504 s
+episode 8, step 13
+  step runtime: 323.138 s
+episode 8, step 14
+  step runtime: 321.213 s
+episode 8, step 15
+  step runtime: 321.334 s
+episode 8, step 16
+  step runtime: 321.384 s
+episode 8, step 17
+  step runtime: 320.797 s
+episode 8, step 18
+  step runtime: 321.258 s
+episode 8, step 19
+  step runtime: 321.469 s
+episode 8, step 20
+  step runtime: 320.895 s
+episode 8, step 21
+  step runtime: 321.661 s
+episode 8, step 22
+  step runtime: 322.010 s
+episode 8, step 23
+  step runtime: 321.938 s
+episode 8, step 24
+  step runtime: 322.725 s
+episode 8, step 25
+  step runtime: 322.761 s
+episode 8, step 26
+  step runtime: 323.210 s
+episode 8, step 27
+  step runtime: 323.200 s
+episode 8, step 28
+  step runtime: 323.382 s
+episode 8, step 29
+  step runtime: 323.390 s
+episode 8, step 30
+  step runtime: 323.171 s
+episode 8, step 31
+  step runtime: 323.042 s
+episode 8, step 32
+  step runtime: 323.300 s
+episode 8, step 33
+  step runtime: 323.220 s
+episode 8, step 34
+  step runtime: 323.661 s
+episode 8, step 35
+  step runtime: 324.068 s
+episode 8, step 36
+  step runtime: 323.634 s
+episode 8, step 37
+  step runtime: 323.327 s
+episode 8, step 38
+  step runtime: 322.917 s
+episode 8, step 39
+  step runtime: 323.035 s
+episode 8, step 40
+  step runtime: 323.565 s
+episode 8, step 41
+  step runtime: 323.050 s
+episode 8, step 42
+  step runtime: 323.566 s
+episode 8, step 43
+  step runtime: 323.153 s
+episode 8, step 44
+  step runtime: 323.877 s
+episode 8, step 45
+  step runtime: 323.419 s
+episode 8, step 46
+  step runtime: 322.719 s
+episode 8, step 47
+  step runtime: 323.110 s
+episode 8, step 48
+  step runtime: 322.944 s
+episode 8, step 49
+  step runtime: 322.568 s
+episode 8, step 50
+  step runtime: 322.906 s
+episode 8, step 51
+  step runtime: 322.853 s
+episode 8, step 52
+  step runtime: 323.027 s
+episode 8, step 53
+  step runtime: 323.475 s
+episode 8, step 54
+  step runtime: 323.035 s
+episode 8, step 55
+  step runtime: 322.942 s
+episode 8, step 56
+  step runtime: 322.481 s
+episode 8, step 57
+  step runtime: 323.310 s
+episode 8, step 58
+  step runtime: 322.915 s
+episode 8, step 59
+  step runtime: 323.497 s
+episode 8, step 60
+  step runtime: 323.087 s
+episode 8, step 61
+  step runtime: 323.522 s
+episode 8, step 62
+  step runtime: 323.568 s
+episode 8, step 63
+  step runtime: 323.319 s
+episode 8, step 64
+  step runtime: 322.639 s
+episode 8, step 65
+  step runtime: 323.261 s
+episode 8, step 66
+  step runtime: 322.690 s
+episode 8, step 67
+  step runtime: 323.589 s
+episode 8, step 68
+  step runtime: 323.013 s
+episode 8, step 69
+  step runtime: 323.488 s
+episode 8, step 70
+  step runtime: 323.230 s
+episode 8, step 71
+  step runtime: 322.655 s
+episode 8, step 72
+  step runtime: 322.988 s
+episode 8, step 73
+  step runtime: 323.126 s
+episode 8, step 74
+  step runtime: 323.187 s
+episode 8 finished in 24270.04 s
+-----------2025-08-03 05:07:46.531199 UTC-----------
+| info_average_distance_to_target   | 0.12588616   |
+| info_average_normalized_perfor... | -0.08738199  |
+| info_average_out_water            | 0.1178972    |
+| info_average_performance          | -1.3048584   |
+| info_final_distance_to_target     | 0.0005401505 |
+| info_final_normalized_performance | -0.08551957  |
+| info_final_out_water              | 0.13020833   |
+| info_final_performance            | -1.3026235   |
+| info_sum_distance_to_target       | 9.441462     |
+| info_sum_normalized_performance   | -6.553649    |
+| info_sum_out_water                | 8.84229      |
+| info_sum_performance              | -97.86438    |
+----------------------------------------------------
+episode 9
+episode 9, step 0
+  step runtime: 291.050 s
+episode 9, step 1
+  step runtime: 285.557 s
+episode 9, step 2
+  step runtime: 286.489 s
+episode 9, step 3
+  step runtime: 284.331 s
+episode 9, step 4
+  step runtime: 286.453 s
+episode 9, step 5
+  step runtime: 283.763 s
+episode 9, step 6
+  step runtime: 282.943 s
+episode 9, step 7
+  step runtime: 284.052 s
+episode 9, step 8
+  step runtime: 280.447 s
+episode 9, step 9
+  step runtime: 279.142 s
+episode 9, step 10
+  step runtime: 277.088 s
+episode 9, step 11
+  step runtime: 275.882 s
+episode 9, step 12
+  step runtime: 273.929 s
+episode 9, step 13
+  step runtime: 272.786 s
+episode 9, step 14
+  step runtime: 272.646 s
+episode 9, step 15
+  step runtime: 272.772 s
+episode 9, step 16
+  step runtime: 272.578 s
+episode 9, step 17
+  step runtime: 271.048 s
+episode 9, step 18
+  step runtime: 272.001 s
+episode 9, step 19
+  step runtime: 271.884 s
+episode 9, step 20
+  step runtime: 272.350 s
+episode 9, step 21
+  step runtime: 272.406 s
+episode 9, step 22
+  step runtime: 271.900 s
+episode 9, step 23
+  step runtime: 272.438 s
+episode 9, step 24
+  step runtime: 271.544 s
+episode 9, step 25
+  step runtime: 271.276 s
+episode 9, step 26
+  step runtime: 270.803 s
+episode 9, step 27
+  step runtime: 271.103 s
+episode 9, step 28
+  step runtime: 270.813 s
+episode 9, step 29
+  step runtime: 270.629 s
+episode 9, step 30
+  step runtime: 270.199 s
+episode 9, step 31
+  step runtime: 270.559 s
+episode 9, step 32
+  step runtime: 270.225 s
+episode 9, step 33
+  step runtime: 270.634 s
+episode 9, step 34
+  step runtime: 269.584 s
+episode 9, step 35
+  step runtime: 268.431 s
+episode 9, step 36
+  step runtime: 268.100 s
+episode 9, step 37
+  step runtime: 268.270 s
+episode 9, step 38
+  step runtime: 268.440 s
+episode 9, step 39
+  step runtime: 268.924 s
+episode 9, step 40
+  step runtime: 268.888 s
+episode 9, step 41
+  step runtime: 269.185 s
+episode 9, step 42
+  step runtime: 268.717 s
+episode 9, step 43
+  step runtime: 269.072 s
+episode 9, step 44
+  step runtime: 268.986 s
+episode 9, step 45
+  step runtime: 269.553 s
+episode 9, step 46
+  step runtime: 269.116 s
+episode 9, step 47
+  step runtime: 269.578 s
+episode 9, step 48
+  step runtime: 269.547 s
+episode 9, step 49
+  step runtime: 269.093 s
+episode 9, step 50
+  step runtime: 269.430 s
+episode 9, step 51
+  step runtime: 269.734 s
+episode 9, step 52
+  step runtime: 269.938 s
+episode 9, step 53
+  step runtime: 269.627 s
+episode 9, step 54
+  step runtime: 270.069 s
+episode 9, step 55
+  step runtime: 269.658 s
+episode 9, step 56
+  step runtime: 269.632 s
+episode 9, step 57
+  step runtime: 269.808 s
+episode 9, step 58
+  step runtime: 269.983 s
+episode 9, step 59
+  step runtime: 270.007 s
+episode 9, step 60
+  step runtime: 270.152 s
+episode 9, step 61
+  step runtime: 270.189 s
+episode 9, step 62
+  step runtime: 270.990 s
+episode 9, step 63
+  step runtime: 270.819 s
+episode 9, step 64
+  step runtime: 270.728 s
+episode 9, step 65
+  step runtime: 270.641 s
+episode 9, step 66
+  step runtime: 270.437 s
+episode 9, step 67
+  step runtime: 270.799 s
+episode 9, step 68
+  step runtime: 270.850 s
+episode 9, step 69
+  step runtime: 271.052 s
+episode 9, step 70
+  step runtime: 270.956 s
+episode 9, step 71
+  step runtime: 270.901 s
+episode 9, step 72
+  step runtime: 270.832 s
+episode 9, step 73
+  step runtime: 271.445 s
+episode 9, step 74
+  step runtime: 271.290 s
+episode 9 finished in 20439.25 s
+-----------2025-08-03 10:48:25.778554 UTC-----------
+| info_average_distance_to_target   | 0.10480426   |
+| info_average_normalized_perfor... | -1.3376635   |
+| info_average_out_water            | 0.2700392    |
+| info_average_performance          | -2.8051963   |
+| info_final_distance_to_target     | 0.0004003986 |
+| info_final_normalized_performance | -1.4880787   |
+| info_final_out_water              | 0.29852942   |
+| info_final_performance            | -2.9856944   |
+| info_sum_distance_to_target       | 7.8603196    |
+| info_sum_normalized_performance   | -100.32477   |
+| info_sum_out_water                | 20.25294     |
+| info_sum_performance              | -210.38972   |
+----------------------------------------------------
