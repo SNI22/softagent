@@ -1,0 +1,3 @@
+[submodule "softgym"]
+	path = softgym
+	url = https://github.com/SNI22/softgym
