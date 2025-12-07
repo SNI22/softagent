@@ -19,10 +19,12 @@ export PATH=/home/sni22/miniconda3/bin:$PATH
 source /home/sni22/miniconda3/etc/profile.d/conda.sh
 cd /home/sni22/softagent/softgym
 conda env create -f environment.yml
-conda activate softgym
 . ./prepare_1.0.sh && ./compile_1.0.sh
 conda install -c conda-forge libstdcxx-ng
 export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
 python examples/random_env.py --env_name PassWater
 cd ..
 . ./prepare_1.0.sh
+
+python ./experiments/run_cem.py     --env_name ClothFold     --test_episodes 1     --max_iters 5     --timestep_per_decision 6000     --use_mpc True     --log_dir ./data/cem/test_corner_fold
+
